@@ -7,7 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iaizawa0623&repo=RestSharpCognitoAuthenticator&theme=dracula" />
 </a>
 
-<a href="[https://github.com/iaizawa0623/RestSharpCognitoAuthenticator](https://github.com/iaizawa0623/amplify_studio_and_figma_trial)">
+<a href="https://github.com/iaizawa0623/amplify_studio_and_figma_trial">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iaizawa0623&repo=amplify_studio_and_figma_trial&theme=dracula" />
 </a>
 
