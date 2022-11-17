@@ -4,4 +4,17 @@
 </a>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 15 November 2022 - To: 16 November 2022
+
+Total Time: 25 mins
+
+TypeScript   19 mins         >>>>>>>>>>>>>>>>>>>------   74.65 %
+JavaScript   4 mins          >>>>>--------------------   18.72 %
+JSON         1 min           >>-----------------------   06.19 %
+YAML         0 secs          -------------------------   00.40 %
+CSS          0 secs          -------------------------   00.04 %
+```
+
 <!--END_SECTION:waka-->
