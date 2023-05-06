@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 03 May 2023
+From: 15 November 2022 - To: 04 May 2023
 
 Total Time: 263 hrs 18 mins
 
@@ -29,7 +29,6 @@ CSS          15 hrs 24 mins  >------------------------   05.85 %
 JSON         13 hrs 18 mins  >------------------------   05.06 %
 JavaScript   11 hrs 22 mins  >------------------------   04.32 %
 YAML         10 hrs 10 mins  >------------------------   03.86 %
-XML          4 hrs 13 mins   -------------------------   01.61 %
 ```
 
 <!--END_SECTION:waka-->
